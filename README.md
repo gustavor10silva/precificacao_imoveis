@@ -16,6 +16,7 @@ Com base em tantos fatores, é um desafio para as empresas fazer uma precificaç
 
 O projeto é composto por 5 etapas principais:
 
+![fluxo_projeto](imagens/fluxo_projeto.jpg "Fluxo do projeto de precificação de imóveis")
 
 Todas as etapas contribuíram para o bom desempenho do modelo final, mas vale um destaque para engenharia de atributos. Depois da inclusão dos dados do Censo, da criação e da expansão de atributos, o percentual de acerto da precificação aumentou significativamente.
 
@@ -23,7 +24,11 @@ Todas as etapas contribuíram para o bom desempenho do modelo final, mas vale um
 
 O tipo de avaliação dos modelos depende do contexto da precificação. Então, supondo que estamos do lado dos vendedores de imóveis, é menos prejudicial sobrestimar o preço pois, tendo esse tipo de erro, basta implementar um desconto no preço do imóvel a cada período de tempo ou a cada número de tentativas frustradas de venda. Portanto, para avaliar os modelos, foi criada seguinte métrica de avaliação:
 
+![metrica_avaliacao](imagens/metrica_avaliacao.jpg "Métrica de avaliação")
+
 Com isso, os modelos tiveram uma tolerância maior ao erro de sobrestimar o preço ($20\%$) do que ao erro de subestimar ($10\%$). Os resultados obtidos foram os seguintes:
+
+![resultados_obtidos](imagens/resultados_obtidos.jpg "Resultados obtidos")
 
 Por fim, o melhor resultado obtido foi $100\%$ de acerto.
 
