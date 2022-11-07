@@ -28,11 +28,12 @@ O tipo de avaliação dos modelos depende do contexto da precificação. Então,
 
 Com isso, os modelos tiveram uma tolerância maior ao erro de sobrestimar o preço ($20\%$) do que ao erro de subestimar ($10\%$). Os resultados obtidos foram os seguintes:
 
-![resultados_obtidos](arquivos/resultados_obtidos.png "Resultados obtidos")
+![resultados_obtidos](arquivos/resultados_obtidos_1.png "Resultados obtidos")
 
-Por fim, o melhor resultado obtido foi $100\%$ de acerto.
+![resultados_obtidos](arquivos/resultados_obtidos_1.png "Resultados obtidos")
+
+Por fim, o melhor resultado obtido foi $56\%$ de acerto.
 
 ## Referências
 
-\begin{thebibliography}{99}
-\bibitem{este livro} HARRISON, Matt. \textbf{Machine Learning:}  Guia de Referência Rápida. São Paulo - SP, Brasil: novatec, 2020.
+Machine Learning: Guia de Referência Rápida. São Paulo - SP, Brasil: novatec, 2020.
