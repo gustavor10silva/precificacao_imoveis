@@ -32,7 +32,7 @@ Com isso, os modelos tiveram uma tolerância maior ao erro de sobrestimar o pre�
 
 ![resultados_obtidos](arquivos/resultados_obtidos_2.png "Resultados obtidos")
 
-Por fim, o melhor resultado obtido foi $56\%$ de acerto.
+Por fim, o melhor resultado obtido foi $56$\% de acerto.
 
 ## Referências
 
